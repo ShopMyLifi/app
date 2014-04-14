@@ -1,7 +1,8 @@
-# Ignore everything
-*
-
 # But not
 !.gitignore
 !res/*
 !src/*
+# Ignore everything
+*
+
+
