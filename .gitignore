@@ -3,5 +3,5 @@
 
 # But not
 !.gitignore
-!/res
-!/src
+!res
+!src
