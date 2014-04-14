@@ -5,5 +5,5 @@
 !.gitignore
 !res/*
 !src/*
-
+!.git/*
 
