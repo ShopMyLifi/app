@@ -1,3 +1,4 @@
+//test amaury
 package tc.smartlife.shopmylifi;
 
 import android.support.v7.app.ActionBarActivity;
